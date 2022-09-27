@@ -34,7 +34,7 @@ The technologies we use mainly include:
 3. Use @Polygon’s crypto assets (e.g. ERC20, ERC721) to set up token gating
 4. Use @OpenZepplin's ERC20 template as our official Token smart contract base
 5. Use @IPFS to store decentralized data, such as social graphs, voting records, etc.
-6. Use @Chainlink to sync off-chain data.
+6. Use @Chainlink to interact with off-chain data.
 
 |    Platform   | Built with |
 |---------------|----------------|
