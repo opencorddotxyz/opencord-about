@@ -1,0 +1,48 @@
+<svg width="750" height="1625" viewBox="0 0 750 1625" fill="balck" xmlns="http://www.w3.org/2000/svg" style="filter: brightness(1.25);">
+  <rect width="750" height="1625" fill="balck" />
+  <defs>
+    <radialGradient
+      id="Gradient"
+      cx="0.5"
+      cy="0.5"
+      fx="0.52"
+      fy="0.5"
+      r="0.5"
+    >
+      <stop offset="0%" stop-color="blue" />
+      <stop offset="100%" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient
+      id="Gradient1"
+      cx="0.5"
+      cy="0.5"
+      fx="0.7"
+      fy="0.5"
+      r="0.5"
+    >
+      <stop offset="0%" stop-color="blue" />
+      <stop offset="100%" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect
+    x="450"
+    y="500"
+    width="600"
+    height="1600"
+    fill="url(#Gradient)"
+  />
+  <rect
+    x="-300"
+    y="600"
+    width="1300"
+    height="900"
+    fill="url(#Gradient1)"
+  />
+  <rect
+    x="0"
+    y="150"
+    width="1500"
+    height="1700"
+    fill="url(#Gradient)"
+  />
+</svg>
